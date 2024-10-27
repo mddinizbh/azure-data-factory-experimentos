@@ -1,0 +1,9 @@
+{
+	"name": "ADFExemploInicial",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1e957c4-51f1-4d6c-be68-f057b0d15f0f",
+		"tenantId": "f84e144c-f3a7-4a8d-9ea8-719bd65f1358"
+	}
+}
